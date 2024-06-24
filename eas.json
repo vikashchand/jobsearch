@@ -2,11 +2,12 @@
   "build": {
     "production": {
       "android": {
-        "image": "latest"
-      },
-      "ios": {
         "image": "latest",
          "buildType": "apk"
+      },
+      "ios": {
+        "image": "latest"
+        
       }
     }
   }
