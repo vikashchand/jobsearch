@@ -2,10 +2,10 @@
   "build": {
     "production": {
       "android": {
-        "image": "jos.png"
+        "image": "latest"
       },
       "ios": {
-        "image": "jos.png"
+        "image": "latest"
       }
     }
   }
