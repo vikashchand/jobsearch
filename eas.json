@@ -13,8 +13,8 @@
       "channel": "preview"
     },
     "production": {
-      "channel": "production"
-
+      "channel": "production",
+      "image": "jos.png"  
     }
   },
   "submit": {
