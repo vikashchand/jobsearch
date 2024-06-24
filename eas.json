@@ -13,8 +13,7 @@
       "channel": "preview"
     },
     "production": {
-      "channel": "production",
-      "image": "job.webp"
+      "channel": "production"
 
     }
   },
