@@ -5,7 +5,8 @@
         "image": "latest"
       },
       "ios": {
-        "image": "latest"
+        "image": "latest",
+         "buildType": "apk"
       }
     }
   }
